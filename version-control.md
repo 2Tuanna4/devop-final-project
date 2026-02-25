@@ -13,3 +13,7 @@
 - `git branch <name>` - Create a new branch
 - `git checkout <branch>` - Switch branches
 - `git merge <branch>` - Merge a branch into current
+
+## GitHub Repo Files 
+#example
+![GitHub files](https://devop-final.s3.us-east-1.amazonaws.com/Screenshot+2026-02-25+133354.png)

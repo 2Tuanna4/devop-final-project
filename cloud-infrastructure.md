@@ -2,7 +2,8 @@
 
 ## AWS Basics
 
-- EC2 - Virtual machines in the cloud
+- EC2 - Virtual machines in the cloud 
+![ec2 example](https://devop-final.s3.us-east-1.amazonaws.com/Screenshot+2026-02-25+133203.png)
 - Security Groups - Act as a firewall for your instance
 - Inbound Rules - Control what traffic can reach your instance
 
